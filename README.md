@@ -1,16 +1,7 @@
-# React + Vite
+# Vivek Garg – Portfolio (older version)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an older version of my portfolio, built with React, Vite, Framer Motion and lucide-react.
 
-Currently, two official plugins are available:
+**My current portfolio is at https://vivekgarg.vercel.app**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Note: this repository has only the project config (`package.json`, `vite.config.js`, `index.html`, ESLint config). The `src/` folder was never uploaded, so it cannot be built from this repo as it is.
